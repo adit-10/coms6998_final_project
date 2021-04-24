@@ -26,3 +26,5 @@ Please refer to EfficientNetOptimization.ipynb for EfficientNet Optimization cod
 - Pruned the model at 0.2, 0.4, 0.6 and 0.8 Sparsity levels
 
 Please refer to MobileNetOptimization.ipynb for MobileNet Optimization code.
+
+utils.py provides several functions which can be used to apply different types of quantizations to models and evaluate quantized models using tensorflow lite.
