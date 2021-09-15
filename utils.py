@@ -1,4 +1,5 @@
 # Utility functions for applying optimizations
+# added this comment for Advanced Software Engineerng HW 0
 
 import tensorflow as tf
 
